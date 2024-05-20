@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="DPC Python",
+    name="dpc-python",
     version="0.1.0",
     description="A library for handling DPC data",
     long_description=open("README.md", "r", encoding="utf-8").read(),
