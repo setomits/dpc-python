@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Mitsuhiro Setoguchi",
     author_email="setomits@gmail.com",
-    url="https://github.com/setomits/dpc_python",
+    url="https://github.com/setomits/dpc-python",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
